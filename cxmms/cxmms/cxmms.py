@@ -1,3 +1,24 @@
+#!/usr/bin/env python
+#
+# Copyright (C) 2005 Gopal Vijayaraghavan <gopalv82>
+#
+# * This program is free software; you can redistribute it and/or modify
+# * it under the terms of the GNU General Public License as published by
+# * the Free Software Foundation; version 2 of the License.
+#
+# A Couple of More Features Added by Tejas Dinkar <tejasdinkar@gmail.com>
+#
+#  Cleanup of Code
+#  Shuffle Funtion
+#  Change Logging Style
+#  Search Function
+#  Fixed Bug regarding scroll bar
+#
+# And yes, it might not work for you ? :)
+#
+# To Do:
+#  1) Cleanup Code
+
 import curses
 import xmms
 import select
