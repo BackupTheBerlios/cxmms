@@ -18,6 +18,7 @@
 #
 # To Do:
 #  1) Cleanup Code
+#  2) Learn CVS
 
 import curses
 import xmms
